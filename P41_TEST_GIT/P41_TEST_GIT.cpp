@@ -23,11 +23,17 @@ void func4()
 	std::cout << "Hello World!\n";
 }
 
+void func5()
+{
+	std::cout << "Hello World!\n";
+}
+
 int main()
 {
 	func1();
 	func3();
 	func4();
+	func5();
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
