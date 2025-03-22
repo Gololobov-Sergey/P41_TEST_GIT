@@ -13,10 +13,15 @@ void func2()
 	std::cout << "Hello World!\n";
 }
 
+void func3()
+{
+	std::cout << "Hello World!\n";
+}
+
 int main()
 {
 	func1();
-	func2();
+	func3();
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
